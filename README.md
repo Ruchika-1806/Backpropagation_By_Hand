@@ -11,3 +11,6 @@ encoded. For example, class 0 has a label of [1, 0, 0, 0] and class 2 has a labe
 4) Make sure use the appropriate activation function in the output layer. Use any number of nodes in the hidden layer.
 Provide one single function that allows us to use the network to predict the test set. This function
 should output the labels one-hot encoded in a numpy array.
+
+![b1](https://user-images.githubusercontent.com/31189656/98510619-6c42ef80-2231-11eb-9589-b1953d1cc33e.JPG)<br>
+![b2](https://user-images.githubusercontent.com/31189656/98510622-6d741c80-2231-11eb-9456-fa3cc7c7eb36.JPG)
